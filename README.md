@@ -1,2 +1,3 @@
-# dokumentumszerkesztesi_technikak
-diplomamunka formázás, LaTex alapok
+# dokumentumszerkesztési technikák
+
+https://github.com/ABC-iRobotics/diplomamunka-latex-template
